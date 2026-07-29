@@ -1,0 +1,26 @@
+
+{
+  "name": "Aplikasi Stock Barang",
+  "short_name": "Stock Barang",
+  "description": "Aplikasi manajemen stok barang - Data Barang, Barang Masuk, Barang Keluar, dan Stock Gudang",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
