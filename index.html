@@ -458,6 +458,11 @@
   <script src="js/stock.js?v=4"></script>
   <script src="js/excel.js?v=4"></script>
   <script src="js/app.js?v=4"></script>
-
+<script>
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("sw.js")
+    .then(() => console.log("Service Worker berhasil didaftarkan"));
+}
+</script>
 </body>
 </html>
