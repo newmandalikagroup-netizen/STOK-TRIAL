@@ -9,7 +9,7 @@ CONFIG.JS
 // (Isi setelah deploy Apps Script - lihat GOOGLE_SHEETS_SETUP.md)
 // ======================================
 
-const API_URL = "https://script.google.com/macros/s/AKfycbwkDq7_2GRRM2bhl4QDXAmLxbA0mWeQauo_uBKvW0fM32r6jPbqk6376UcwCxs0QQBu/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbwAm1dcVIv5Cb84niveIDonIjodQiwiPfGAgZP1n02-Tfb5AqkpalVSJ4fU92vu6hc/exec";
 
 const STORAGE_KEY = {
 
